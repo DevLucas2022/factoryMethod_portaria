@@ -23,5 +23,13 @@ uma das seguintes msg na interface:
 
       "XXXXXXXX não tem nenhuma relação com a instituição, acompanhar até a secretaria"
 
-**CRIANDO UM MODELO SIMPLES**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**RESOLVENDO A ATIVIDADE COM UM MODELO SIMPLES**
+https://user-images.githubusercontent.com/103695606/222926990-a8ad4aa2-f518-429e-8e30-c755ffb6436b.mp4
+
+**CRIANDO UM LOOP PARA O SCRIPT ANTERIOR**
+https://user-images.githubusercontent.com/103695606/222927019-992dc596-598c-4942-8c3c-acb9d3769f9f.mp4
+
+**SUBINDO A APLICAÇÃO PARA O FRONT-END UTILIZANDO PYTHON E FLASK** 
+https://user-images.githubusercontent.com/103695606/222927030-418d2875-0891-4b21-b027-bd2bb9b5db53.mp4
+
+
