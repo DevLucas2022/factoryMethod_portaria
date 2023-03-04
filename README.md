@@ -22,3 +22,6 @@ uma das seguintes msg na interface:
 - Caso não seja encontrado a relação com a instituição mostrar a msg na interface:
 
       "XXXXXXXX não tem nenhuma relação com a instituição, acompanhar até a secretaria"
+
+**CRIANDO UM MODELO SIMPLES**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
