@@ -2,6 +2,12 @@
 
 Esse foi um projeto realizado em sala de aula para simular uma entrada na portaria da Fatec, utilizando python e o design pattern Factory Method
 
+Integrantes do Grupo:
+- **Lucas de Oliveira Santos**
+- **Lucas Chaves**
+- **Luis Felipe**
+
+
 **Instruções**
 
 - O programa recebe o nome da pessoa (Ex: João);
