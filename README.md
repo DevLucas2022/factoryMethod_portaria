@@ -22,14 +22,30 @@ uma das seguintes msg na interface:
 - Caso não seja encontrado a relação com a instituição mostrar a msg na interface:
 
       "XXXXXXXX não tem nenhuma relação com a instituição, acompanhar até a secretaria"
+<hr>
 
 **RESOLVENDO A ATIVIDADE COM UM MODELO SIMPLES**
-https://user-images.githubusercontent.com/103695606/222926990-a8ad4aa2-f518-429e-8e30-c755ffb6436b.mp4
+
+<hr>
+  
+https://user-images.githubusercontent.com/103695606/222927280-eb9d6ce4-2d75-4694-b97f-bbe7f4d5a7c3.mp4
+
+<hr>
 
 **CRIANDO UM LOOP PARA O SCRIPT ANTERIOR**
-https://user-images.githubusercontent.com/103695606/222927019-992dc596-598c-4942-8c3c-acb9d3769f9f.mp4
+
+<hr>
+
+https://user-images.githubusercontent.com/103695606/222927288-8370181c-98e4-4b9f-a830-6af9808feaf1.mp4
+
+
+<hr>
 
 **SUBINDO A APLICAÇÃO PARA O FRONT-END UTILIZANDO PYTHON E FLASK** 
-https://user-images.githubusercontent.com/103695606/222927030-418d2875-0891-4b21-b027-bd2bb9b5db53.mp4
+
+
+<hr>
+
+https://user-images.githubusercontent.com/103695606/222927290-118bb15a-3bca-44ad-86ed-2632da919f48.mp4
 
 
