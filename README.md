@@ -5,7 +5,7 @@ Esse foi um projeto realizado em sala de aula para simular uma entrada na portar
 Integrantes do Grupo:
 - **Lucas de Oliveira Santos**
 - **Lucas Chaves**
-- **Luis Felipe**
+- **Luis Felipe Rodrigues Lima**
 
 
 **Instruções**
